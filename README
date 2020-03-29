@@ -1,0 +1,6 @@
+Name: Zi Xue Lim
+ID: 1573849
+CMPUT 274 Fall 2019
+Unfair Dice
+
+Program which programs the probaility of an unfair dice which can be modified in the scipt and maps the rolls. Seed can also be changed to produce different set of random numbers. The program will also plot a histagram of the rolls.
